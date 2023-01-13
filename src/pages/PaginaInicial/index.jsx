@@ -2,6 +2,7 @@ import Banner from './banner.png'
 import Cabecalho from "../../Componentes/Cabecalho";
 import Menu from "../../Componentes/Menu";
 import styles from './PaginaInicial.module.scss';
+import Galeria from '../../Componentes/Galeria';
 
 export default function PaginaInicial() {
     return (
@@ -15,6 +16,9 @@ export default function PaginaInicial() {
                         <img src={Banner} alt="A foto de um lugar do mundo" />
                     </div>
                 </section>
+                <div className={styles.galeria}>
+                    <Galeria />
+                </div>
             </main>
         </>
     )

@@ -1,0 +1,72 @@
+[
+    {
+      "titulo": "Rio de Janeiro",
+      "creditos": "Photo World",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35TQgmb6dU-QuXCXQhbMZrlGlgGBz4QgoXw&usqp=CAU",
+      "id": "1",
+      "tag": "América"
+    },
+    {
+      "titulo": "Safari",
+      "creditos": "Photo World",
+      "imagem": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-africa-quando-ir.jpg",
+      "id": "2",
+      "tag": "África"
+    },
+    {
+      "titulo": "Tóquio",
+      "creditos": "Photo World",
+      "imagem": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/07/viagem-a-asia.jpg",
+      "id": "3",
+      "tag": "Ásia"
+    },
+    {
+      "titulo": "Nova York",
+      "creditos": "Photo World",
+      "imagem": "https://viagemeturismo.abril.com.br/wp-content/uploads/2018/03/istock-615822390.jpg?quality=70&strip=info&w=1280&h=720&crop=1",
+      "id": "4",
+      "tag": "América"
+    },
+    {
+      "titulo": "Cidade do Cabo",
+      "creditos": "Photo World",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Kl6zwgNvmwXsQOxCSmd0emgXYwlXBQi3Ac1j-JPTilBtMAmzsOG9_gFD9nwmWxgFn_Q&usqp=CAU",
+      "id": "5",
+      "tag": "África"
+    },
+    {
+      "titulo": "Paris",
+      "creditos": "Photo World",
+      "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-paris-capa2019-01.jpg",
+      "id": "6",
+      "tag": "Europa"
+    },
+    {
+      "titulo": "Campina Grande",
+      "creditos": "Photo World",
+      "imagem": "https://portal.ufcg.edu.br/images/2020.2/campina.jpg",
+      "id": "7",
+      "tag": "América"
+    },
+    {
+      "titulo": "Paris",
+      "creditos": "Photo World",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9O_qbSvlCZ1fj-R5g27jaFzI3MtNJ_BxuNg&usqp=CAU",
+      "id": "8",
+      "tag": "Europa"
+    },
+    {
+      "titulo": "Seychelles",
+      "creditos": "Photo World",
+      "imagem": "https://blog.kangaroo.com.br/wp-content/uploads/2016/06/Tropical-beach.-The-Seychelles-shutterstock_291228743.jpg",
+      "id": "9",
+      "tag": "África"
+    },
+    {
+      "titulo": "Safari",
+      "creditos": "Photo World",
+      "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/02/baoba-simbolo-africa.jpg",
+      "id": "10",
+      "tag": "África"
+    }
+  ]
