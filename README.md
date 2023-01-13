@@ -1,4 +1,4 @@
-# Photo World
+# ⚛️ Photo World
 
 <hr>
 
@@ -7,7 +7,7 @@
 <hr>
 
 ## Preview:
-![image](https://user-images.githubusercontent.com/106833007/212417531-ecb812a5-3e93-48ec-bd96-bee04633cfb8.png)
+![image](https://user-images.githubusercontent.com/106833007/212437016-0493e166-d443-4db4-9eb1-c1763d9d2b57.png)
 <hr>
 
 # Getting Started with Create React App
